@@ -31,7 +31,7 @@ WeatherApp is an Android application that provides real-time weather updates for
 1. Clone the repository:
 
 ```bash
-[git clone https://github.com/your-username/WeatherApp.git](https://github.com/xclusive43/WeatherApp_Assignment.git)
+git clone https://github.com/xclusive43/WeatherApp_Assignment.git 
 ```
 2. Open the project with Android Studio.
 3. Add your API key:
