@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="celsius">°</string>
+    <string name="daily_summary">Daily Summary</string>
+    <string name="city_name">City Name</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+</resources>
